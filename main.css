@@ -1,0 +1,36 @@
+<style type="text/css">
+  h1.depan {
+	font-weight: 800;
+	color: #ff9231;}
+  h2.depan {
+	padding-top: 20px;
+	display: block;
+	font-weight: 700;
+	color: #ff9231;}
+  h3.depan {
+	display: inline-block;
+	padding-top: 2px;
+	font-weight: 600;
+	color: #ff9231;}
+  h4.depan {
+	color: #f73131;}
+  .subtitle {
+	font-size: 16px;
+	padding-bottom: 12px;
+	font-weight: bold;}
+  .spacer {
+	padding-bottom: 18px;}
+  .site-description p {
+    font-size: 14px;}
+  .site-description a {
+    color: #ebcb80;
+	text-decoration: none;}
+  .site-description li::before {
+    content: "• ";}
+  .info-center-container a {
+    color: #fff;}
+  .info-center-container ul {
+    margin-left: 10px;}
+  ul.kotak {
+    list-style-type: square;}
+</style>
